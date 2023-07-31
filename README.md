@@ -1,2 +1,3 @@
 # first_python.py
-mine
+print("Hello world")
+
